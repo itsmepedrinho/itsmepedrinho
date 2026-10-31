@@ -29,15 +29,15 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e estou ampliando m
 **Uso profissional**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcgNGgxMGE4IDggMCAxIDEgMCAxNkg3QTggOCAwIDEgMSA3IDRabTAgM2E1IDUgMCAxIDAgMCAxMGgxMGE1IDUgMCAxIDAgMC0xMEg3WiIvPjwvc3ZnPg%3D%3D)
 ![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-2B579A?style=for-the-badge&logo=sap&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjIgMi4yIDI0IDB2MjRsLTYuOC0yLjJMNCAxMmwxMy4yLTkuOFpNNCA5LjEgMCA2LjJsMy4xLTIuNCA4LjEgNi4xLTIuNSAyLjFMNCA5LjFabTAgNS44LTQgMi45IDMuMSAyLjQgOC4xLTYuMS0yLjUtMi4xTDQgMTQuOVoiLz48L3N2Zz4%3D)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEgNC42IDEwLjcgM3Y4LjJIMVY0LjZabTExLjItMS44TDIzIDF2MTAuMmgtMTAuOFYyLjhaTTEgMTIuOGg5LjdWMjFMMSAxOS40di02LjZabTExLjIgMEgyM1YyM2wtMTAuOC0xLjhWMTIuOFoiLz48L3N2Zz4%3D)
 
 **Em desenvolvimento**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDIgMjEgN3YxMGwtOSA1LTktNVY3bDktNVptMCAzLjJMNiA4LjV2N2w2IDMuMyA2LTMuM3YtN2wtNi0zLjNaIi8%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE4LjQgOS41aDEuMmwtLjMgMS40aDEuM2wuMi0xLjRoMS4xbC0uMiAxLjRIMjN2MWgtMS41bC0uMiAxLjJoMS4zdjFoLTEuNWwtLjMgMS41aC0xLjFsLjMtMS41aC0xLjJsLS4zIDEuNWgtMS4xbC4zLTEuNWgtMS4xdi0xaDEuM2wuMi0xLjJoLTEuMXYtMWgxLjNsLjMtMS40Wm0uNSAyLjQtLjIgMS4yaDEuMmwuMi0xLjJoLTEuMloiLz48L3N2Zz4%3D)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## 🎮 Beyond the keyboard
