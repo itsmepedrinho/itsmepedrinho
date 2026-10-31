@@ -30,7 +30,7 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e estou ampliando m
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-2B579A?style=for-the-badge&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-2B579A?style=for-the-badge&logo=sap&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
