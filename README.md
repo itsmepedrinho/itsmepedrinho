@@ -1,0 +1,63 @@
+<div align="center">
+
+![Setup gamer e tecnológico](github-profile-banner.jpeg)
+
+# 👋 Hello, World! It’s me, Pedro Henrique
+
+💻 Entusiasta de tecnologia | 🎮 Gamer | 🇧🇷 Brasil
+
+Explorando tecnologia, desenvolvendo minhas habilidades em software e sempre pronto para a próxima fase.
+
+</div>
+
+## 👨‍💻 About me
+
+Sou profissional de TI com **mais de 11 anos de experiência em ambiente corporativo**, atuando na Montreal Informática, alocado no DETRAN.RJ. Hoje trabalho como **Analista de Sistemas Júnior**, criando e mantendo relatórios com Crystal Reports e Visual Studio e escrevendo consultas SQL em bancos Oracle.
+
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e estou ampliando meus conhecimentos em **C# e .NET**. Minha experiência também inclui suporte técnico, Windows e Linux, redes, virtualização e configuração de ambientes de banco de dados. Quero levar essa bagagem para novos desafios e crescer no desenvolvimento de software.
+
+## 🎯 Current focus
+
+- 🔭 Aprofundando meus estudos em **C# e .NET**, com exercícios e projetos de aprendizagem
+- 🧩 No trabalho: **SQL/Oracle, Crystal Reports e Visual Studio**
+- 🖥️ Experiência com **Windows, Linux, redes, virtualização e suporte técnico**
+- 🎯 Próximo nível: aplicar minha experiência em novos desafios de desenvolvimento de software
+- 🎮 Fora do trabalho: videogames e tecnologia
+
+## 🧰 Technologies & tools
+
+**Uso profissional**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-2B579A?style=for-the-badge&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Em desenvolvimento**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## 🎮 Beyond the keyboard
+
+Também curto videogames e tecnologia. Estou sempre em busca de novos conhecimentos e do próximo desafio.
+
+## 📊 Player stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmepedrinho&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmepedrinho&layout=compact&theme=tokyonight&hide_border=true)
+
+## 💬 Connect
+
+Vamos conversar sobre tecnologia, games ou projetos? Você me encontra por aqui:
+
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/pedro-henrique-lemos-ferreira/)
+- 📄 [Meu currículo (PDF)](https://drive.google.com/file/d/1jDINqK18SThayjF1Cq9HNyIwb74UTRN0/view?usp=drive_link)
+- 🐙 [GitHub](https://github.com/itsmepedrinho)
+
+---
+
+⭐ *Obrigado pela visita. Fique à vontade para explorar!*
