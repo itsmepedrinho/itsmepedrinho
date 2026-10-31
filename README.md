@@ -1,6 +1,6 @@
 <div align="center">
 
-![Setup gamer e tecnológico](github-profile-banner.jpeg)
+![Setup gamer e tecnológico](https://raw.githubusercontent.com/itsmepedrinho/itsmepedrinho/b132baf5c32230dc41d2df59e523a56aa2be060a/github-profile-banner.jpeg)
 
 # 👋 Hello, World! It’s me, Pedro Henrique
 
