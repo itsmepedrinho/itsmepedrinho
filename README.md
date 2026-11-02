@@ -22,7 +22,7 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e estou ampliando m
 - 🧩 No trabalho: **SQL/Oracle, Crystal Reports e Visual Studio**
 - 🖥️ Experiência com **Windows, Linux, redes, virtualização e suporte técnico**
 - 🎯 Próximo nível: aplicar minha experiência em novos desafios de desenvolvimento de software
-- 🎮 Fora do trabalho: videogames e tecnologia
+- 🎮 Fora do trabalho: videogames, tecnologia, corrida e musculação
 
 ## 🧰 Technologies & tools
 
